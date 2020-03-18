@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDiacritics", "TestDiacritics\TestDiacritics.csproj", "{50D3C794-E72E-4F10-8AF2-1EC7F1588AFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50D3C794-E72E-4F10-8AF2-1EC7F1588AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D3C794-E72E-4F10-8AF2-1EC7F1588AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D3C794-E72E-4F10-8AF2-1EC7F1588AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D3C794-E72E-4F10-8AF2-1EC7F1588AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E6FA6D4-AA53-4D37-B9F0-7288F7DCA6D6}
+	EndGlobalSection
+EndGlobal
